@@ -10,10 +10,10 @@ git push
 
 git show
 
-git log - oneline
+git log - oneline  --> to get log of all commits in the repository
 
-git init 
+git init   ---> used to start repositiory to be tracked
 
-git push -u origin main
+git push -u origin main  --> for first commiting of repository
 
-git remote add remote(repository name) url(should be ssh link) 
+git remote add remote(repository name) url(should be ssh link)   --> to add a remote repository to local machine 
